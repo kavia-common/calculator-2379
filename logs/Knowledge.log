@@ -1,0 +1,330 @@
+2025-09-25 11:16:57,850 - Knowledge - INFO - Redis support added with prefix knowledge:b0141q3:
+2025-09-25 11:16:58,106 - Knowledge - INFO - load persisted knowledge: begin
+2025-09-25 11:16:58,209 - Knowledge - INFO - load persisted knowledge: end
+2025-09-25 11:16:58,277 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-25 11:16:58,381 - Knowledge - INFO - load persisted docinfo: end
+2025-09-25 11:16:58,482 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-25 11:16:58,578 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-25 11:16:58,580 - Knowledge - INFO - worker kw2 created with dedicated MongoDB connection (total: 2)
+2025-09-25 11:16:58,682 - Knowledge - INFO - worker kw1 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js from ingest queue
+2025-09-25 11:16:58,764 - Knowledge - INFO - knowledge worker kw2 start
+2025-09-25 11:16:58,766 - Knowledge - INFO - worker kw3 created with dedicated MongoDB connection (total: 3)
+2025-09-25 11:16:58,890 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js
+2025-09-25 11:16:58,926 - Knowledge - INFO - worker kw2 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js from ingest queue
+2025-09-25 11:16:59,055 - Knowledge - INFO - knowledge worker kw3 start
+2025-09-25 11:16:59,057 - Knowledge - INFO - worker kw4 created with dedicated MongoDB connection (total: 4)
+2025-09-25 11:16:59,130 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:16:59,241 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js
+2025-09-25 11:16:59,291 - Knowledge - INFO - worker kw3 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js from ingest queue
+2025-09-25 11:16:59,397 - Knowledge - INFO - knowledge worker kw4 start
+2025-09-25 11:16:59,773 - Knowledge - INFO - worker kw4 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js from ingest queue
+2025-09-25 11:16:59,475 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:16:59,566 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:16:59,676 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js
+2025-09-25 11:16:59,398 - Knowledge - INFO - worker kw5 created with dedicated MongoDB connection (total: 5)
+2025-09-25 11:16:59,917 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js
+2025-09-25 11:16:59,947 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js
+2025-09-25 11:17:00,057 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:00,158 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:00,255 - Knowledge - INFO - knowledge worker kw5 start
+2025-09-25 11:17:00,256 - Knowledge - INFO - worker kw6 created with dedicated MongoDB connection (total: 6)
+2025-09-25 11:17:00,378 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:00,519 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js to ingest queue
+2025-09-25 11:17:00,566 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js
+2025-09-25 11:17:00,685 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:00,929 - Knowledge - INFO - knowledge worker kw6 start
+2025-09-25 11:17:00,931 - Knowledge - INFO - worker kw7 created with dedicated MongoDB connection (total: 7)
+2025-09-25 11:17:01,014 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:01,121 - Knowledge - INFO - worker kw5 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css from ingest queue
+2025-09-25 11:17:01,122 - Knowledge - INFO - worker kw1 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js from ingest queue
+2025-09-25 11:17:01,259 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js to ingest queue
+2025-09-25 11:17:01,285 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js
+2025-09-25 11:17:01,456 - Knowledge - INFO - knowledge worker kw7 start
+2025-09-25 11:17:01,457 - Knowledge - INFO - worker kw8 created with dedicated MongoDB connection (total: 8)
+2025-09-25 11:17:01,542 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js
+2025-09-25 11:17:01,657 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css
+2025-09-25 11:17:01,741 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js
+2025-09-25 11:17:01,798 - Knowledge - INFO - worker kw6 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js from ingest queue
+2025-09-25 11:17:01,798 - Knowledge - INFO - worker kw2 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js from ingest queue
+2025-09-25 11:17:01,983 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js to ingest queue
+2025-09-25 11:17:02,081 - Knowledge - INFO - knowledge worker kw8 start
+2025-09-25 11:17:02,084 - Knowledge - INFO - worker kw9 created with dedicated MongoDB connection (total: 9)
+2025-09-25 11:17:02,472 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js
+2025-09-25 11:17:02,552 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js
+2025-09-25 11:17:02,638 - Knowledge - INFO - worker kw7 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css from ingest queue
+2025-09-25 11:17:02,696 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:02,697 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:02,697 - Knowledge - INFO - worker kw3 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css from ingest queue
+2025-09-25 11:17:02,697 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js to ingest queue
+2025-09-25 11:17:02,828 - Knowledge - INFO - knowledge worker kw9 start
+2025-09-25 11:17:02,829 - Knowledge - INFO - worker kw10 created with dedicated MongoDB connection (total: 10)
+2025-09-25 11:17:03,178 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css
+2025-09-25 11:17:03,290 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:03,382 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:03,493 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css
+2025-09-25 11:17:03,573 - Knowledge - INFO - worker kw8 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css from ingest queue
+2025-09-25 11:17:03,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:03,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:03,574 - Knowledge - INFO - worker kw4 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js from ingest queue
+2025-09-25 11:17:03,661 - Knowledge - INFO - worker kw9 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js from ingest queue
+2025-09-25 11:17:03,784 - Knowledge - INFO - knowledge worker kw10 start
+2025-09-25 11:17:03,785 - Knowledge - INFO - worker kw11 created with dedicated MongoDB connection (total: 11)
+2025-09-25 11:17:03,879 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:03,953 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css
+2025-09-25 11:17:04,028 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js
+2025-09-25 11:17:04,116 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:04,255 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css
+2025-09-25 11:17:04,335 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:04,449 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:04,571 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js
+2025-09-25 11:17:04,662 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js
+2025-09-25 11:17:04,713 - Knowledge - INFO - worker kw10 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js from ingest queue
+2025-09-25 11:17:04,798 - Knowledge - INFO - knowledge worker kw11 start
+2025-09-25 11:17:04,799 - Knowledge - INFO - worker kw12 created with dedicated MongoDB connection (total: 12)
+2025-09-25 11:17:04,884 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:06,054 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css
+2025-09-25 11:17:05,197 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:05,364 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js
+2025-09-25 11:17:05,481 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js
+2025-09-25 11:17:05,846 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js
+2025-09-25 11:17:05,971 - Knowledge - INFO - knowledge worker kw12 start
+2025-09-25 11:17:05,973 - Knowledge - INFO - worker kw13 created with dedicated MongoDB connection (total: 13)
+2025-09-25 11:17:05,030 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css to ingest queue
+2025-09-25 11:17:06,272 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css
+2025-09-25 11:17:06,721 - Knowledge - INFO - knowledge worker kw13 start
+2025-09-25 11:17:06,723 - Knowledge - INFO - worker kw14 created with dedicated MongoDB connection (total: 14)
+2025-09-25 11:17:06,882 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:06,882 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:06,882 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:06,882 - Knowledge - INFO - worker kw11 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css from ingest queue
+2025-09-25 11:17:07,031 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:07,032 - Knowledge - INFO - worker kw12 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json from ingest queue
+2025-09-25 11:17:07,032 - Knowledge - INFO - worker kw5 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md from ingest queue
+2025-09-25 11:17:07,032 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js to ingest queue
+2025-09-25 11:17:07,121 - Knowledge - INFO - knowledge worker kw14 start
+2025-09-25 11:17:07,123 - Knowledge - INFO - worker kw15 created with dedicated MongoDB connection (total: 15)
+2025-09-25 11:17:07,220 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:07,295 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:07,375 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:07,497 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css
+2025-09-25 11:17:07,600 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:07,744 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json
+2025-09-25 11:17:07,826 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md
+2025-09-25 11:17:07,969 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js to ingest queue
+2025-09-25 11:17:08,105 - Knowledge - INFO - knowledge worker kw15 start
+2025-09-25 11:17:08,107 - Knowledge - INFO - worker kw16 created with dedicated MongoDB connection (total: 16)
+2025-09-25 11:17:08,224 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css
+2025-09-25 11:17:08,304 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js
+2025-09-25 11:17:08,386 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js
+2025-09-25 11:17:08,584 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js
+2025-09-25 11:17:08,922 - Knowledge - INFO - worker kw13 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html from ingest queue
+2025-09-25 11:17:08,922 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js to ingest queue
+2025-09-25 11:17:09,084 - Knowledge - INFO - knowledge worker kw16 start
+2025-09-25 11:17:09,095 - Knowledge - INFO - worker kw17 created with dedicated MongoDB connection (total: 17)
+2025-09-25 11:17:09,596 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html
+2025-09-25 11:17:09,668 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css to ingest queue
+2025-09-25 11:17:09,886 - Knowledge - INFO - knowledge worker kw17 start
+2025-09-25 11:17:09,887 - Knowledge - INFO - worker kw18 created with dedicated MongoDB connection (total: 18)
+2025-09-25 11:17:10,055 - Knowledge - INFO - worker kw1 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json from ingest queue
+2025-09-25 11:17:10,056 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css to ingest queue
+2025-09-25 11:17:10,309 - Knowledge - INFO - knowledge worker kw18 start
+2025-09-25 11:17:10,313 - Knowledge - INFO - worker kw19 created with dedicated MongoDB connection (total: 19)
+2025-09-25 11:17:10,461 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json
+2025-09-25 11:17:10,507 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:10,507 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:10,507 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:10,508 - Knowledge - INFO - worker kw6 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js from ingest queue
+2025-09-25 11:17:10,509 - Knowledge - INFO - worker kw15 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js from ingest queue
+2025-09-25 11:17:10,674 - Knowledge - INFO - worker kw2 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js from ingest queue
+2025-09-25 11:17:10,674 - Knowledge - INFO - worker kw16 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js from ingest queue
+2025-09-25 11:17:10,674 - Knowledge - INFO - worker kw14 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css from ingest queue
+2025-09-25 11:17:10,674 - Knowledge - INFO - worker kw7 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js from ingest queue
+2025-09-25 11:17:10,674 - Knowledge - INFO - worker kw17 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js from ingest queue
+2025-09-25 11:17:10,719 - Knowledge - INFO - knowledge worker kw19 start
+2025-09-25 11:17:10,729 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js to ingest queue
+2025-09-25 11:17:10,899 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:10,988 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:11,059 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:11,179 - Knowledge - INFO - Thread kw6 - File isNumber.js - Remaining files in queue: 3
+2025-09-25 11:17:11,262 - Knowledge - INFO - Thread kw15 - File calculate.js - Remaining files in queue: 3
+2025-09-25 11:17:11,372 - Knowledge - INFO - Thread kw2 - File operate.js - Remaining files in queue: 3
+2025-09-25 11:17:11,458 - Knowledge - INFO - Thread kw16 - File calculate.test.js - Remaining files in queue: 3
+2025-09-25 11:17:11,585 - Knowledge - INFO - Thread kw14 - File App.css - Remaining files in queue: 3
+2025-09-25 11:17:11,677 - Knowledge - INFO - Thread kw7 - File App.js - Remaining files in queue: 3
+2025-09-25 11:17:11,758 - Knowledge - INFO - Thread kw17 - File App.test.js - Remaining files in queue: 3
+2025-09-25 11:17:11,940 - Knowledge - INFO - worker kw18 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js from ingest queue
+2025-09-25 11:17:11,941 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js to ingest queue
+2025-09-25 11:17:12,062 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css
+2025-09-25 11:17:12,145 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json
+2025-09-25 11:17:12,234 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md
+2025-09-25 11:17:12,355 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js
+2025-09-25 11:17:12,427 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js
+2025-09-25 11:17:12,582 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js
+2025-09-25 11:17:12,694 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js
+2025-09-25 11:17:12,834 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css
+2025-09-25 11:17:12,923 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js
+2025-09-25 11:17:13,009 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js
+2025-09-25 11:17:13,092 - Knowledge - INFO - Thread kw18 - File Display.js - Remaining files in queue: 3
+2025-09-25 11:17:13,220 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:13,220 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js to ingest queue
+2025-09-25 11:17:13,575 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js
+2025-09-25 11:17:13,963 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css
+2025-09-25 11:17:14,115 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js
+2025-09-25 11:17:14,211 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js
+2025-09-25 11:17:14,330 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:14,417 - Knowledge - INFO - worker kw3 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css from ingest queue
+2025-09-25 11:17:14,418 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css to ingest queue
+2025-09-25 11:17:14,496 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js
+2025-09-25 11:17:14,617 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css
+2025-09-25 11:17:14,709 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js
+2025-09-25 11:17:14,829 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js
+2025-09-25 11:17:14,901 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html
+2025-09-25 11:17:14,983 - Knowledge - INFO - Thread kw3 - File Display.css - Remaining files in queue: 4
+2025-09-25 11:17:15,083 - Knowledge - INFO - worker kw19 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css from ingest queue
+2025-09-25 11:17:15,083 - Knowledge - INFO - worker kw4 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js from ingest queue
+2025-09-25 11:17:15,084 - Knowledge - INFO - worker kw9 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js from ingest queue
+2025-09-25 11:17:15,150 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:15,154 - Knowledge - INFO - worker kw10 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js from ingest queue
+2025-09-25 11:17:15,155 - Knowledge - INFO - worker kw8 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css from ingest queue
+2025-09-25 11:17:15,177 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js
+2025-09-25 11:17:15,267 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css
+2025-09-25 11:17:15,276 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json to ingest queue
+2025-09-25 11:17:15,384 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js
+2025-09-25 11:17:15,444 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js
+2025-09-25 11:17:15,630 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css
+2025-09-25 11:17:15,728 - Knowledge - INFO - Thread kw19 - File ButtonPanel.css - Remaining files in queue: 0
+2025-09-25 11:17:15,841 - Knowledge - INFO - Thread kw4 - File ButtonPanel.js - Remaining files in queue: 0
+2025-09-25 11:17:15,926 - Knowledge - INFO - Thread kw9 - File Button.js - Remaining files in queue: 0
+2025-09-25 11:17:16,006 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:16,126 - Knowledge - INFO - Thread kw10 - File index.js - Remaining files in queue: 0
+2025-09-25 11:17:16,213 - Knowledge - INFO - Thread kw8 - File Button.css - Remaining files in queue: 0
+2025-09-25 11:17:16,455 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md to ingest queue
+2025-09-25 11:17:16,639 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js
+2025-09-25 11:17:16,703 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css
+2025-09-25 11:17:16,796 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css
+2025-09-25 11:17:16,909 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js
+2025-09-25 11:17:16,983 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js
+2025-09-25 11:17:17,110 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json
+2025-09-25 11:17:17,220 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js
+2025-09-25 11:17:17,308 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css
+2025-09-25 11:17:17,397 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css to ingest queue
+2025-09-25 11:17:17,590 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css
+2025-09-25 11:17:17,699 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css
+2025-09-25 11:17:18,101 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js
+2025-09-25 11:17:18,205 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css
+2025-09-25 11:17:18,456 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css
+2025-09-25 11:17:18,458 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:18,465 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:18,471 - Knowledge - INFO - worker kw12 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json from ingest queue
+2025-09-25 11:17:18,485 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:18,493 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:18,597 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css
+2025-09-25 11:17:18,613 - Knowledge - INFO - worker kw11 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md from ingest queue
+2025-09-25 11:17:18,613 - Knowledge - INFO - worker kw5 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css from ingest queue
+2025-09-25 11:17:18,613 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json to ingest queue
+2025-09-25 11:17:18,725 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js
+2025-09-25 11:17:18,815 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css
+2025-09-25 11:17:19,049 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:19,166 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:19,253 - Knowledge - INFO - Thread kw12 - File package.json - Remaining files in queue: 0
+2025-09-25 11:17:19,353 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:19,475 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:19,600 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css
+2025-09-25 11:17:19,728 - Knowledge - INFO - Thread kw11 - File README.md - Remaining files in queue: 0
+2025-09-25 11:17:19,848 - Knowledge - INFO - Thread kw5 - File index.css - Remaining files in queue: 0
+2025-09-25 11:17:19,986 - Knowledge - INFO - adding /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html to ingest queue
+2025-09-25 11:17:20,128 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js
+2025-09-25 11:17:20,154 - Knowledge - INFO - done ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js
+2025-09-25 11:17:20,187 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css
+2025-09-25 11:17:20,311 - Knowledge - INFO - done ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js
+2025-09-25 11:17:20,316 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js
+2025-09-25 11:17:20,420 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css
+2025-09-25 11:17:20,501 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json
+2025-09-25 11:17:20,596 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js
+2025-09-25 11:17:20,691 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js
+2025-09-25 11:17:20,872 - Knowledge - INFO - done ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js
+2025-09-25 11:17:20,935 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md
+2025-09-25 11:17:20,946 - Knowledge - INFO - done ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js
+2025-09-25 11:17:21,044 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css
+2025-09-25 11:17:21,148 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:21,149 - Knowledge - INFO - worker kw1 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json from ingest queue
+2025-09-25 11:17:21,149 - Knowledge - INFO - worker kw13 pull /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html from ingest queue
+2025-09-25 11:17:21,150 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:21,274 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:21,378 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js
+2025-09-25 11:17:21,458 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:21,570 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js
+2025-09-25 11:17:21,873 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json
+2025-09-25 11:17:22,151 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js
+2025-09-25 11:17:22,222 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md
+2025-09-25 11:17:22,332 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js
+2025-09-25 11:17:22,490 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:22,603 - Knowledge - INFO - Thread kw1 - File manifest.json - Remaining files in queue: 0
+2025-09-25 11:17:22,695 - Knowledge - INFO - Thread kw13 - File index.html - Remaining files in queue: 0
+2025-09-25 11:17:22,792 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:22,902 - Knowledge - INFO - done ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js
+2025-09-25 11:17:22,935 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:22,970 - Knowledge - INFO - done ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js
+2025-09-25 11:17:23,052 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:23,139 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:23,216 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:23,330 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json
+2025-09-25 11:17:23,441 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:23,538 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md
+2025-09-25 11:17:23,651 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:23,759 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css
+2025-09-25 11:17:23,880 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json
+2025-09-25 11:17:23,967 - Knowledge - INFO - start ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html
+2025-09-25 11:17:24,048 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css
+2025-09-25 11:17:24,151 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js
+2025-09-25 11:17:24,211 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js
+2025-09-25 11:17:24,309 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js
+2025-09-25 11:17:24,378 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:24,437 - Knowledge - INFO - done ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css
+2025-09-25 11:17:24,468 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css
+2025-09-25 11:17:24,553 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:24,646 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json
+2025-09-25 11:17:24,743 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:24,843 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md
+2025-09-25 11:17:24,919 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:25,090 - Knowledge - INFO - Fast-track processing for simple file: /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json
+2025-09-25 11:17:25,391 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:25,591 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:26,544 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:25,762 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css
+2025-09-25 11:17:25,930 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js
+2025-09-25 11:17:26,006 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:26,088 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js
+2025-09-25 11:17:26,189 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:26,255 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js
+2025-09-25 11:17:26,345 - Knowledge - INFO - done fast ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json
+2025-09-25 11:17:26,445 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:25,690 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js
+2025-09-25 11:17:26,633 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js
+2025-09-25 11:17:26,725 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:26,897 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:27,069 - Knowledge - INFO - done ingest for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html
+2025-09-25 11:17:27,100 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:27,314 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json
+2025-09-25 11:17:27,396 - Knowledge - INFO - persist search terms embedding for src/logic/calculate.js
+2025-09-25 11:17:27,408 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js
+2025-09-25 11:17:27,673 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:27,771 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json
+2025-09-25 11:17:27,873 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html
+2025-09-25 11:17:27,952 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md
+2025-09-25 11:17:28,288 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css
+2025-09-25 11:17:28,758 - Knowledge - INFO - persist search terms embedding for src/logic/calculate.test.js
+2025-09-25 11:17:29,432 - Knowledge - INFO - persist search terms embedding for src/component/Button.js
+2025-09-25 11:17:29,517 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:29,610 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:29,688 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json
+2025-09-25 11:17:29,858 - Knowledge - INFO - persist search terms embedding for src/component/App.js
+2025-09-25 11:17:30,264 - Knowledge - INFO - persist search terms embedding for src/logic/operate.js
+2025-09-25 11:17:30,744 - Knowledge - INFO - persist search terms embedding for src/component/ButtonPanel.js
+2025-09-25 11:17:31,153 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-25 11:17:31,247 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4c2a560110>
+2025-09-25 11:17:31,354 - Knowledge - INFO - persist ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html
+2025-09-25 11:17:31,507 - Knowledge - INFO - Knowledge creation complete
+2025-09-25 11:17:31,592 - Knowledge - INFO - Updating org costs, total cost: 0.0019426
+2025-09-25 11:17:31,996 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-25 11:17:32,136 - Knowledge - INFO - Knowledge saved to Redis successfully
