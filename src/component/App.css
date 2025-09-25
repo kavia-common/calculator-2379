@@ -1,6 +1,17 @@
 .component-app {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  height: 100%;
+  width: 100%;
+  max-width: 700px;
+  margin: 2rem auto;
+  border: 1px solid #c0c0c0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.08);
+  background: #1f2937; /* dark slate for crisp contrast */
+  color: #f9fafb;
+}
+
+.calc-btn:focus-visible {
+  outline: 3px solid #60a5fa;
+  outline-offset: 2px;
+  border-radius: 8px;
 }

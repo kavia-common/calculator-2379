@@ -1,30 +1,35 @@
 import React from "react";
 import PropTypes from "prop-types";
 import "./Button.css";
+import { useCalculator } from "./CalculatorContext";
 
-export default class Button extends React.Component {
-  static propTypes = {
-    name: PropTypes.string,
-    orange: PropTypes.bool,
-    wide: PropTypes.bool,
-    clickHandler: PropTypes.func,
-  };
+export default function Button({ name, orange, wide }) {
+  const { onButtonPress } = useCalculator();
 
-  handleClick = () => {
-    this.props.clickHandler(this.props.name);
-  };
+  const handleClick = () => onButtonPress(name);
 
-  render() {
-    const className = [
-      "component-button",
-      this.props.orange ? "orange" : "",
-      this.props.wide ? "wide" : "",
-    ];
+  const className = [
+    "component-button",
+    orange ? "orange" : "",
+    wide ? "wide" : "",
+  ];
 
-    return (
-      <div className={className.join(" ").trim()}>
-        <button onClick={this.handleClick}>{this.props.name}</button>
-      </div>
-    );
-  }
+  return (
+    <div className={className.join(" ").trim()}>
+      <button
+        type="button"
+        onClick={handleClick}
+        aria-label={`Press ${name}`}
+        className="calc-btn"
+      >
+        {name}
+      </button>
+    </div>
+  );
 }
+
+Button.propTypes = {
+  name: PropTypes.string.isRequired,
+  orange: PropTypes.bool,
+  wide: PropTypes.bool,
+};

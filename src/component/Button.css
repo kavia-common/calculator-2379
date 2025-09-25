@@ -1,27 +1,44 @@
 .component-button {
-  display: inline-flex;
-  width: 25%;
-  flex: 1 0 auto;
+  display: inline-block;
+  width: 20%;
 }
 
 .component-button.wide {
-  width: 50%;
+  width: 40%;
 }
 
-.component-button button {
-  background-color: #e0e0e0;
+.component-button .calc-btn {
+  background-color: #e5e7eb;
+  color: #111827;
   border: 0;
-  font-size: 1.5rem;
-  margin: 0 1px 0 0;
-  flex: 1 0 auto;
-  padding: 0;
+  border-right: 1px solid #d1d5db;
+  border-bottom: 1px solid #d1d5db;
+  font-size: clamp(1.2rem, 3vw, 1.5rem);
+  line-height: 3.25rem;
+  width: 100%;
+  transition: background-color 120ms ease, transform 50ms ease;
+  cursor: pointer;
 }
 
-.component-button:last-child button {
-  margin-right: 0;
+.component-button .calc-btn:hover {
+  background-color: #d1d5db;
 }
 
-.component-button.orange button {
-  background-color: #f5923e;
-  color: white;
+.component-button .calc-btn:active {
+  transform: scale(0.98);
+}
+
+.orange .calc-btn {
+  background-color: #f59e0b;
+  color: #111827;
+}
+
+.component-button:first-child .calc-btn {
+  border-top: 0;
+}
+
+/* responsive stacking on very small screens */
+@media (max-width: 420px) {
+  .component-button { width: 25%; }
+  .component-button.wide { width: 50%; }
 }
