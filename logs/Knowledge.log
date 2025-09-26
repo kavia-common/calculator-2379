@@ -328,3 +328,72 @@
 2025-09-25 11:17:31,592 - Knowledge - INFO - Updating org costs, total cost: 0.0019426
 2025-09-25 11:17:31,996 - Knowledge - INFO - Saving knowledge to Redis...
 2025-09-25 11:17:32,136 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-09-26 09:39:17,322 - Knowledge - INFO - Redis support added with prefix knowledge:b0141q3:
+2025-09-26 09:39:17,613 - Knowledge - INFO - load persisted knowledge: begin
+2025-09-26 09:39:17,869 - Knowledge - INFO - Persisted knowledge files in /app/data/kaviademo4200/2379/b0141q3/calculator-2379/.knowledge have been renamed to use .json
+2025-09-26 09:39:17,989 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:18,093 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:18,214 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.js
+2025-09-26 09:39:18,339 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:18,469 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:18,555 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.js
+2025-09-26 09:39:18,667 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:18,752 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:18,832 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/isNumber.js
+2025-09-26 09:39:18,930 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:19,049 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:19,129 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/package.json
+2025-09-26 09:39:19,255 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:19,336 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:19,447 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Button.css
+2025-09-26 09:39:19,561 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:19,682 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:19,766 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/ButtonPanel.css
+2025-09-26 09:39:19,884 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:19,996 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:20,100 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.js
+2025-09-26 09:39:20,213 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:20,296 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:20,391 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.js
+2025-09-26 09:39:20,507 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:20,625 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:20,704 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/Display.css
+2025-09-26 09:39:20,794 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:20,878 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:20,986 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/index.css
+2025-09-26 09:39:21,087 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:21,180 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:21,288 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.css
+2025-09-26 09:39:21,383 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:21,453 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:21,578 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/index.html
+2025-09-26 09:39:21,660 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:21,757 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:21,839 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/public/manifest.json
+2025-09-26 09:39:21,956 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:22,046 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:22,142 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.js
+2025-09-26 09:39:22,246 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:22,324 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:22,400 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/README.md
+2025-09-26 09:39:22,493 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:22,589 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:22,704 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.js
+2025-09-26 09:39:22,793 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:22,875 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:22,949 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/component/App.test.js
+2025-09-26 09:39:23,056 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:23,129 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:23,252 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/calculate.test.js
+2025-09-26 09:39:23,340 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/calculator-2379.git:kavia-master
+2025-09-26 09:39:23,423 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f985aa40f90>
+2025-09-26 09:39:23,530 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/2379/b0141q3/calculator-2379/src/logic/operate.js
+2025-09-26 09:39:23,638 - Knowledge - INFO - load persisted knowledge: end
+2025-09-26 09:39:23,736 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-26 09:39:23,824 - Knowledge - INFO - load persisted docinfo: end
+2025-09-26 09:39:23,961 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-26 09:39:24,052 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-26 09:39:24,135 - Knowledge - INFO - Knowledge creation complete
+2025-09-26 09:39:24,263 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-09-26 09:39:25,064 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-26 09:39:25,182 - Knowledge - INFO - Knowledge saved to Redis successfully
